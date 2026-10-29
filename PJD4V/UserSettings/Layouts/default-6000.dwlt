@@ -355,7 +355,7 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 0
-    y: 43
+    y: 0
     width: 1920
     height: 36
   m_SerializedDataModeController:
@@ -728,7 +728,7 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 0
-    y: 79
+    y: 24
     width: 287
     height: 529
   m_SerializedDataModeController:
@@ -749,17 +749,16 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs:
-      - m_rawData: 568105584918831016
+      m_SelectedIDs: []
       m_LastClickedID:
-        m_rawData: 568105584918831016
+        m_rawData: 0
       m_ExpandedIDs:
       - m_rawData: 568105589213753932
       - m_rawData: 568105589213756042
       m_RenameOverlay:
         m_UserAcceptedRename: 0
-        m_Name: GameManager
-        m_OriginalName: GameManager
+        m_Name: 
+        m_OriginalName: 
         m_EditFieldRect:
           serializedVersion: 2
           x: 0
@@ -767,10 +766,10 @@ MonoBehaviour:
           width: 0
           height: 0
         m_UserData:
-          m_rawData: 568105589213753820
+          m_rawData: 0
         m_IsWaitingForDelay: 0
         m_IsRenaming: 0
-        m_OriginalEventType: 0
+        m_OriginalEventType: 11
         m_IsRenamingFilename: 0
         m_TrimLeadingAndTrailingWhitespace: 0
         m_ClientGUIView: {fileID: 8}
@@ -803,8 +802,8 @@ MonoBehaviour:
     m_TextWithWhitespace: "Scene\u200B"
   m_Pos:
     serializedVersion: 2
-    x: 288
-    y: 79
+    x: 289
+    y: 24
     width: 1043
     height: 529
   m_SerializedDataModeController:
@@ -1379,7 +1378,7 @@ MonoBehaviour:
   m_AudioPlay: 0
   m_DebugDrawModesUseInteractiveLightBakingData: 0
   m_Position:
-    m_Target: {x: 29.32301, y: -1.1747029, z: -0.14613351}
+    m_Target: {x: 8.833556, y: 2.639023, z: -0.11788342}
     speed: 2
     m_Value: {x: 29.32301, y: -1.1747029, z: -0.14613351}
   m_RenderMode: 0
@@ -1432,7 +1431,7 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 24.613373
+    m_Target: 21.78833
     speed: 2
     m_Value: 24.613373
   m_Ortho:
@@ -1687,7 +1686,7 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 0
-    y: 634
+    y: 579
     width: 1332
     height: 352
   m_SerializedDataModeController:
@@ -1739,10 +1738,8 @@ MonoBehaviour:
     m_LastClickedID:
       m_rawData: 568105584918830864
     m_ExpandedIDs:
-    - m_rawData: 568105589213753952
     - m_rawData: 0
-    - m_rawData: 568105584918829978
-    - m_rawData: 568105587066273791
+    - m_rawData: 568105584918829652
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1776,7 +1773,7 @@ MonoBehaviour:
       m_rawData: 0
     m_ExpandedIDs:
     - m_rawData: 0
-    - m_rawData: 568105584918829978
+    - m_rawData: 568105584918829652
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1945,8 +1942,8 @@ MonoBehaviour:
     m_TextWithWhitespace: "Inspector\u200B"
   m_Pos:
     serializedVersion: 2
-    x: 1333
-    y: 79
+    x: 1
+    y: 24
     width: 586
     height: 637
   m_SerializedDataModeController:
@@ -1999,8 +1996,8 @@ MonoBehaviour:
     m_TextWithWhitespace: "UnityEditor.Tilemaps.GridPaintPaletteWindow\u200B"
   m_Pos:
     serializedVersion: 2
-    x: 1333
-    y: 742
+    x: 1
+    y: 687
     width: 586
     height: 244
   m_SerializedDataModeController:
